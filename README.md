@@ -7,7 +7,7 @@
 ![Screenshot](http://tinyimg.io/i/YCL5hek.gif)
 
 
-**Dynamic Code - Loops through all possible child controls** 
+**Dynamic Code - Loops through all possible child controls and indexes the handle you selected** 
 
 **Static Code - Grabs the direct handle**
 
